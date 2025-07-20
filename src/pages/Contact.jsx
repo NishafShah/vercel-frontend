@@ -19,10 +19,10 @@ const Contact = () => {
         <div className="flex flex-col justify-center items-start gap-6">
           <p className=" font-semibold text-lg text-gray-600">OUR OFFICE</p>
           <p className=" text-gray-500">
-            54709 Willms Station <br /> Suite 350, Washington, USA
+            Model Town B  Khanpur<br /> District R.Y.K Pakistan
           </p>
           <p className=" text-gray-500">
-            Tel: (415) 555-0132 <br /> Email: greatstackdev@gmail.com
+            Tel: +92-3277054143<br /> Email: shahmurrawat@gmail.com
           </p>
           <p className=" font-semibold text-lg text-gray-600">
             CAREERS AT PRESCRIPTO
